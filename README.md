@@ -7,5 +7,5 @@ Run the app, change the width so only the tabs Page 1 to Page 4 are displayed.
 
 Click the ellipse which will pop up a menu showing the remaining tabs.
 
-Note that the text of the menu is white and barely readable against
+Note that the text of the menu is white (coming from BarTextColor) and barely readable against
 whatever the colour of the menu background is!
